@@ -52,16 +52,19 @@ Start typeing the text that you would like to appear on your personal web page.
 
 Here is everything you need on how t format the text you are writting:
 
-To write a Header, type: `# This is My Header`
-If you use `##` on the front of a line, you will get a smaller Header:
-`## This is my level 2 header`
-While using `###` in front of a line, you get a level 3 header:
+To write a Header, type: 
+`# This is My Header`  
+
+If you use `##` on the front of a line, you will get a smaller Header:  
+`## This is my level 2 header`  
+
+While using `###` in front of a line, you get a level 3 header:  
 `### This is my level 3 header`
 
 This is how they would look like:
 
-# This is My Heade
+# This is My Header
 ## This is my level 2 header
-### This is my level 3 heade
+### This is my level 3 header
 
 
