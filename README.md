@@ -35,3 +35,33 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+# How to make a simple web page on GitHub
+
+* A web page with text and images
+* Fully customizable
+* Easy to create and easy to update
+* No coding exprerience required
+* The only language you will need is called Markown
+
+# Creating a Markdown file
+
+Open "Notepad" on Windows, or a similar application on other operating systems.
+
+Start typeing the text that you would like to appear on your personal web page.
+
+Here is everything you need on how t format the text you are writting:
+
+To write a Header, type: `# This is My Header`
+If you use `##` on the front of a line, you will get a smaller Header:
+`## This is my level 2 header`
+While using `###` in front of a line, you get a level 3 header:
+`### This is my level 3 header`
+
+This is how they would look like:
+
+# This is My Heade
+## This is my level 2 header
+### This is my level 3 heade
+
+
