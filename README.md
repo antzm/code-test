@@ -48,11 +48,13 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 Open "Notepad" on Windows, or a similar application on other operating systems.
 
-Start typeing the text that you would like to appear on your personal web page.
+Start typing the text that you would like to appear on your personal web page.
 
-Here is everything you need on how t format the text you are writting:
+Here is everything you need on how o format the text you are writting:
 
-To write a Header, type: 
+## Headers
+
+To write a Header, type:   
 `# This is My Header`  
 
 If you use `##` on the front of a line, you will get a smaller Header:  
@@ -67,4 +69,13 @@ This is how they would look like:
 ## This is my level 2 header
 ### This is my level 3 header
 
+
+## Font styles
+
+Markdown Code | Formated text
+--------------|--------------
+`**this thext is bold**`  | **this thext is bold**
+`_this text is italized_` | _this text is italized_
+`**combination of _italized_ and bold**` | **combination of _italized_ and bold**
+`_combination of **bold** and italized_` | _combination of **bold** and italized_
 
