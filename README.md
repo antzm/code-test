@@ -70,12 +70,21 @@ This is how they would look like:
 ### This is my level 3 header
 
 
+## Headers
+
+Markdown Code | Formated header
+--------------|-----------------
+# This is my level 1 header | # This is my level 1 header
+## This is my level 2 header | ## This is my level 2 header
+### This is my level 3 header | ### This is my level 3 header
+
+
 ## Font styles
 
 Markdown Code | Formated text
 --------------|--------------
 `**this thext is bold**`  | **this thext is bold**
 `_this text is italized_` | _this text is italized_
-`**combination of _italized_ and bold**` | **combination of _italized_ and bold**
-`_combination of **bold** and italized_` | _combination of **bold** and italized_
+`**combination of _italized_ and bold**` | **combination of _italized text_ inside bold text**
+`_combination of **bold** and italized_` | _combination of **bold text** inside italized text_
 
