@@ -50,33 +50,16 @@ Open "Notepad" on Windows, or a similar application on other operating systems.
 
 Start typing the text that you would like to appear on your personal web page.
 
-Here is everything you need on how o format the text you are writting:
-
-## Headers
-
-To write a Header, type:   
-`# This is My Header`  
-
-If you use `##` on the front of a line, you will get a smaller Header:  
-`## This is my level 2 header`  
-
-While using `###` in front of a line, you get a level 3 header:  
-`### This is my level 3 header`
-
-This is how they would look like:
-
-# This is My Header
-## This is my level 2 header
-### This is my level 3 header
-
+In the following tables, you will find everything you need   
+on how to format the text you are writting using Markdown:
 
 ## Headers
 
 Markdown Code | Formated header
 --------------|-----------------
-# This is my level 1 header | # This is my level 1 header
-## This is my level 2 header | ## This is my level 2 header
-### This is my level 3 header | ### This is my level 3 header
+`# This is my level 1 header` | # This is my level 1 header
+`## This is my level 2 header` | ## This is my level 2 header
+`### This is my level 3 header` | ### This is my level 3 header
 
 
 ## Font styles
