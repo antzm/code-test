@@ -55,11 +55,17 @@ on how to format the text you are writting using Markdown:
 
 ## Headers
 
-Markdown Code | Formated header
---------------|-----------------
-`# This is my level 1 header` | <h1>This is my level 1 header</h1>
-`## This is my level 2 header` | <h2> This is my level 2 header</h2>
-`### This is my level 3 header` | <h3>This is my level 3 header</h3>
+Markdown code:
+```
+# This is my level 1 header
+## This is my level 2 header
+### This is my level 3 header
+```
+Preview code:
+
+# This is my level 1 header
+## This is my level 2 header
+### This is my level 3 header
 
 
 ## Font styles
