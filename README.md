@@ -46,21 +46,21 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 * No coding exprerience required
 * The only language you will need is called Markown
 
-### Creating your page:
+## Creating your page:
 1. Create a GitHub account at www.github.io
 2. Let's assume you username on GitHub is: `user-name`
 3. So, from now on, wherever it is mentioned `user-name,` you will just replace it your own GitHub username.
 4. Create a new repository with this name (exactly this name): `user-name.github.io`
 5. Give a description to your repository, choose to be public and choose to create a README file. Leave other options as they are.
-6. On the top of the page, go to `settings`
+6. As soon as your new repository is created, go to the top of the page, and click `settings`
 7. Under `GitHub Pages`, select `Master Branch`
 8. If you want, under 'Theme Choser', select a theme
 9. Now, you've done everything and your web page is being prepared
-10. After 10 minutes, your page will be published at 'https://user-name.gitub.io'
+10. After 10 minutes, your page will be published at `https://user-name.github.io`
 
-###Updating your content:
+## Updating your content:
 
-
+Visiting your new web page, the only thing you will see is the name of your repository and the description you wrote. To include more content in your web page, you can edit the `README.md` file in your repository using a language called `Markdown`
 
 ---
 
