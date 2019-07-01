@@ -93,9 +93,23 @@ Preview code:
 
 ## Font styles
 
-Markdown Code | Formated text
---------------|--------------
-`**this thext is bold**`  | **this thext is bold**
-`_this text is italized_` | _this text is italized_
-`**combination of _italized text_ inside bold text**` | **combination of _italized text_ inside bold text**
-`_combination of **bold text** inside italized text_` | _combination of **bold text** inside italized text_
+```
+**this thext is bold**
+
+_this text is italized_
+
+```
+**this thext is bold**    
+
+_this text is italized_  
+
+```
+**combination of _italized text_ inside bold text**
+
+_combination of **bold text** inside italized text_
+```
+**combination of _italized text_ inside bold text**  
+
+_combination of **bold text** inside italized text_
+
+
