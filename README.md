@@ -145,6 +145,7 @@ item 1a | item 2a | item 3a
 item 1b | item 2b | item 3b
 item 1c | item 2c | item 3c
 
+---
 
 ## Unordered Lists:
 
@@ -183,3 +184,40 @@ item 1c | item 2c | item 3c
    * third item b
    * third item c
 
+---
+
+## Ordered Lists:
+
+```
+1. first item
+2. second item
+3. third item
+```
+
+1. first item
+2. second item
+3. third item
+
+```
+1. first item
+2. second item
+   1. second item a
+   2. second item b
+   3. second item c
+3. third item
+   1. third item a
+   2. third item b
+   3. third item c
+```
+
+1. first item
+2. second item
+   1. second item a
+   2. second item b
+   3. second item c
+3. third item
+   1. third item a
+   2. third item b
+   3. third item c
+
+   
