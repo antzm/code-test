@@ -77,13 +77,11 @@ on how to format the text you are writting using Markdown:
 
 ## Headers
 
-Markdown code:
 ```
 # This is my level 1 header
 ## This is my level 2 header
 ### This is my level 3 header
 ```
-Preview code:
 
 # This is my level 1 header
 ## This is my level 2 header
@@ -95,21 +93,17 @@ Preview code:
 
 ```
 **this thext is bold**
-
 _this text is italized_
 
 ```
 **this thext is bold**    
-
 _this text is italized_  
 
 ```
 **combination of _italized text_ inside bold text**
-
 _combination of **bold text** inside italized text_
 ```
 **combination of _italized text_ inside bold text**  
-
 _combination of **bold text** inside italized text_
 
 ---
@@ -122,7 +116,6 @@ first item in #1 | first item in #2 | first item in # 3
 second item in # 1 | second item in # 2 | second item in # 3
 third item in # 1 | third item in # 2 | third itemm in # 3
 ```
-
 
 header one | header two | header three
 -----------|------------| ------------
@@ -137,7 +130,6 @@ item 1a | item 2a | item 3a
 item 1b | item 2b | item 3b
 item 1c | item 2c | item 3c
 ```
-
 
 items align left | items align center | items align right
 :---   |   :---:   |   ---:
@@ -219,6 +211,8 @@ item 1c | item 2c | item 3c
    1. third item a
    2. third item b
    3. third item c
+
+   ---
 
    ## Task Lists:
 
