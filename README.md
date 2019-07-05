@@ -220,4 +220,30 @@ item 1c | item 2c | item 3c
    2. third item b
    3. third item c
 
-   
+   ## Task Lists:
+
+```
+* [ ] unchecked item 1
+* [x] checked item 2
+* [x] checked item 3
+```
+
+* [ ] unchecked item 1
+* [x] checked item 2
+* [x] checked item 3
+
+```
+* [ ] unchecked item 1
+    * [ ] subitem 1a
+    * [ ] subitem 1b
+* [x] checked item 2
+* [x] checked item 3
+    * [x] subitem 3a
+```
+
+* [ ] unchecked item 1
+    * [ ] subitem 1a
+    * [ ] subitem 1b
+* [x] checked item 2
+* [x] checked item 3
+    * [x] subitem 3a
