@@ -253,3 +253,23 @@ https://www.google.com
 ```
 [GitHub](http://github.com)
 
+
+## Code:
+
+`` this is an `inline code` example ``
+
+this is an `inline code` example
+
+````
+```
+This is a longer
+
+code example
+```
+````
+
+```
+This is a longer
+
+code example
+```
