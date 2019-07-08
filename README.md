@@ -106,6 +106,7 @@ _combination of **bold text** inside italized text_
 ---
 
 ## Tables:
+
 ```
 header one | header two | header three
 -----------|------------| ------------
@@ -144,11 +145,9 @@ item 1c | item 2c | item 3c
 * third item
 ```
 
-
 * first item
 * second item
 * third item
-
 
 ```
 * first item
@@ -161,7 +160,6 @@ item 1c | item 2c | item 3c
    * third item b
    * third item c
 ```
-
 
 * first item
 * second item
@@ -209,9 +207,9 @@ item 1c | item 2c | item 3c
    2. third item b
    3. third item c
 
-   ---
+---
 
-   ## Task Lists:
+## Task Lists:
 
 ```
 * [ ] unchecked item 1
@@ -253,6 +251,7 @@ https://www.google.com
 ```
 [GitHub](http://github.com)
 
+---
 
 ## Code:
 
@@ -272,4 +271,59 @@ code example
 This is a longer
 
 code example
+```
+
+## Code highlighting:
+
+### JavaScript:
+````
+```javascript
+for (i=0; i<10; i++) {
+  console.log(i);
+}
+```
+````
+
+```javascript
+for (i=0; i<10; i++) {
+  console.log(i);
+}
+```
+
+### HTML:
+````
+```html
+<section class="intro">
+   <h1 class="intro-heading">intro heading</h1>
+   <p class="intro-text">intro text</p>
+</section>
+```
+````
+
+```html
+<section class="intro">
+   <h1 class="intro-heading">intro heading</h1>
+   <p class="intro-text">intro text</p>
+</section>
+```
+
+### CSS:
+````
+```css
+.intro {
+   margin: 0;
+   padding: 0;
+   color: #1f3d7a;
+   font: Verdana, Arial, sans-serif;
+}
+```
+````
+
+```css
+.intro {
+   margin: 0;
+   padding: 0;
+   color: #1f3d7a;
+   font: Verdana, Arial, sans-serif;
+}
 ```
