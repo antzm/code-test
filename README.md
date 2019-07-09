@@ -78,12 +78,17 @@ on how to format the text you are writting using Markdown:
 # This is my level 1 header
 ## This is my level 2 header
 ### This is my level 3 header
+#### this is a level 4 heading
+##### this is a level 5 heading
+###### this is a level 6 heading
 ```
 
 # This is my level 1 header
 ## This is my level 2 header
 ### This is my level 3 header
-
+#### this is a level 4 heading
+##### this is a level 5 heading
+###### this is a level 6 heading
 ---
 
 ## Font styles
@@ -272,6 +277,7 @@ This is a longer
 
 code example
 ```
+---
 
 ## Code highlighting:
 
