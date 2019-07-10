@@ -67,25 +67,31 @@ Open "Notepad" on Windows, or a similar application on other operating systems.
 
 Start typing the text that you would like to appear on your personal web page.
 
+Save your file as "my-file.md"
+
+(On notepad, just use quotes to write the name of the file and give it the extension .md)
+
 In the following tables, you will find everything you need   
 on how to format the text you are writting using Markdown:
+
+(The markdown syntax is shown in the highlighted window and just below is a preview of that Markdown)
 
 ---
 
 ## Headers
 
 ```
-# This is my level 1 header
-## This is my level 2 header
-### This is my level 3 header
+# This is a level 1 heading
+## This is a level 2 heading
+### This is a level 3 heading
 #### this is a level 4 heading
 ##### this is a level 5 heading
 ###### this is a level 6 heading
 ```
 
-# This is my level 1 header
-## This is my level 2 header
-### This is my level 3 header
+# This is a level 1 heading
+## This is a level 2 heading
+### This is a level 3 heading
 #### this is a level 4 heading
 ##### this is a level 5 heading
 ###### this is a level 6 heading
@@ -333,3 +339,14 @@ for (i=0; i<10; i++) {
    font: Verdana, Arial, sans-serif;
 }
 ```
+---
+
+## Quote:
+
+```
+>“We change the world not by what we say or do, but as a consequence of what we have become.”
+— David R. Hawkins
+```
+>“We change the world not by what we say or do, but as a consequence of what we have become.”
+— David R. Hawkins
+
