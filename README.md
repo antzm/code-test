@@ -350,3 +350,13 @@ for (i=0; i<10; i++) {
 >“We change the world not by what we say or do, but as a consequence of what we have become.”
 — David R. Hawkins
 
+---
+
+## Images:
+
+```
+![a brown and white dog laying on the floor and looking at the camera](imgs/merfys.jpg)
+```
+
+![a brown and white dog laying on the floor and looking at the camera](imgs/merfys.jpg)
+
