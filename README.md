@@ -360,3 +360,30 @@ for (i=0; i<10; i++) {
 
 ![a brown and white dog laying on the floor and looking at the camera](imgs/merfys.jpg)
 
+---
+
+## Clickable Images
+
+First, write the code for the link and the code for the image:
+
+```
+
+Link:
+[Merfy's GitHub Page](https://antzm.github.io/)
+
+Image:
+![Merfy's the dog looking at the camera](imgs/merfys.jpg)
+
+```
+
+Now, use the code for the link and replace whatever is inside the `[...]` with the full code of the image:
+
+```
+
+Clickable Image:
+[![Merfy's the dog looking at the camera](imgs/merfys.jpg)](https://antzm.github.io/)
+
+
+```
+
+[![Merfy's the dog looking at the camera](imgs/merfys.jpg)](https://antzm.github.io/)
