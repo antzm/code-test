@@ -129,6 +129,7 @@ First paragraph
 
 Second paragraph
 
+
 To start a new line, leave two spaces at the end of a line.
 ```
 First line  <- two spaces at the end of the line
@@ -412,3 +413,15 @@ Clickable Image:
 ```
 
 [![Merfy's the dog looking at the camera](imgs/merfys.jpg)](https://antzm.github.io/)
+
+---
+
+## Insert a line
+
+```
+
+---
+
+```
+
+---
