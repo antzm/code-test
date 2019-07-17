@@ -390,7 +390,7 @@ Clickable Image:
 
 ---
 
-# Original GitHum README file:
+# Original GitHub README file:
 
 ---
 
