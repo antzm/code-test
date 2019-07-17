@@ -390,8 +390,7 @@ Clickable Image:
 
 ---
 
-# Original GitHub README file:
-
+# _Original GitHub README file:_
 ---
 
 ## Welcome to GitHub Pages
