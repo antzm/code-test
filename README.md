@@ -21,7 +21,9 @@
 
 ## Updating your content:
 
-Visiting your new web page, the only thing you will see is the name of your repository and the description you wrote. To include more content in your web page, you can edit the `README.md` file in your repository using a language called `Markdown`
+Visiting your new web page, the only thing you will see is the name of your repository and the description you wrote. To include more content in your web page, you can edit the `README.md` file in your repository using a language called `Markdown`.
+
+You can either edit the "README.md" directly on GitHUb, but as this is not so convenient, you could create a file on your computer, edit that file and then upload it to GitHub and it will automaticall replace your old README.md file.
 
 ---
 
@@ -31,9 +33,11 @@ Open "Notepad" on Windows, or a similar application on other operating systems.
 
 Start typing the text that you would like to appear on your personal web page.
 
-Save your file as "my-file.md"
+Save your file as "my-file-name.md" (e.g. README.md, if you would like to replace your existing README.md file)
 
 (On notepad, just use quotes to write the name of the file and give it the extension .md)
+
+**Always remember to save your file with "UTF-8" encoding**
 
 In the following tables, you will find everything you need   
 on how to format the text you are writting using Markdown:
@@ -383,9 +387,7 @@ Clickable Image:
 ## Insert a line
 
 ```
-
 ---
-
 ```
 
 ---
